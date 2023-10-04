@@ -185,9 +185,14 @@ nav ul li a:hover::after {
     }
 
     .socialicons {
+        size: 50%;
         position: absolute;
-        right: 3%;
-        bottom: 20%;
+        right: 1%;
+        bottom: 35%;
+    }
+
+    .socialicons img {
+        width: 17px;
     }
 
 
